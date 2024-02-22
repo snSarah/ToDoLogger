@@ -6,19 +6,23 @@
 
 To Do Logger – a mobile application built with React Native and Expo to enhance your productivity and organization. This app aims to provide a seamless experience for managing tasks, time, and improving overall efficiency.
 
+## Video Demo
+
+https://www.youtube.com/watch?v=8S8KrCLdRyI
+
 ## Features
 
 ### Home Page
 
-Effortlessly organize your tasks and to-do lists. Add, edit, and mark tasks as completed to stay on top of your schedule.
+A page filled with motivational quotes to get users on the right track before starting their work. Users are also able to get new quotes by clicking the "Get Another" button.
 
 ### Task Management
 
-Set and track your goals to achieve personal and professional milestones. Receive notifications to stay motivated and focused.
+A simple to-do list section where users are able to add tasks and remove it. The tasks will remain even after closing the app.
 
 ### Pomodoro Timer
 
-Receive timely reminders for tasks and goals to ensure you never miss an important deadline or event.
+Pomodoro Timer is implemented with the right timings of 25mins, 10mins and 5 mins. There is a help button that helps to describe more about the Pomodoro
 
 ### User-friendly Interface
 
